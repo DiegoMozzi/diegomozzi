@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Diego, a passionate web developer and Linux enthusiast, exploring the possibilities of building efficient, user-friendly, and scalable applications. 
+I thrive on problem-solving and transforming ideas into functional solutions! 
+
+#### 🚀 **What I do** 
+- **Programming Languages:** PHP, JavaScript, SQL, Bash
+- **Frameworks & Tools:** Laravel, React, Docker, Git
+- **Operating Systems:** Linux (Debian Testing, Rocky Linux —love the command line! 🐧)
+- **UI/UX Design:** Building intuitive interfaces with a polished visual experience
+
+
 <!--
 **DiegoMozzi/diegomozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
