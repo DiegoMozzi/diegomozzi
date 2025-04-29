@@ -6,7 +6,7 @@ I thrive on problem-solving and transforming ideas into functional solutions!
 #### 🚀 **What I do** 
 - **Programming Languages:** PHP, JavaScript, SQL, Bash
 - **Frameworks & Tools:** Laravel, React, Docker, Git
-- **Operating Systems:** Linux (Debian Testing, Rocky Linux —love the command line! 🐧)
+- **Operating Systems:** Linux (Debian Testing, Rocky Linux —love the command line!)
 - **UI/UX Design:** Building intuitive interfaces with a polished visual experience
 
 
